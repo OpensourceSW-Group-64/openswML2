@@ -21,7 +21,7 @@
 
  *****You need to download raw files.***
 ## 📋 System Architecture
-시스템 아키텍처 추가
+![System architectur](https://github.com/user-attachments/assets/db5e24f1-5caf-4944-b32b-abbb67025e40)
 ## 📹 Demo
 데모 영상/사진 추가
 
